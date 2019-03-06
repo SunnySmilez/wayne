@@ -97,12 +97,12 @@ $ docker-compose up -d wayne
 
 With the above command, you can access the local Wayne from http://127.0.0.1:8080/admin, the default administrator account admin:admin.
 
-> Note: After Wayne is started, you need to configure information such as cluster and Namespace for normal use. See details [Cluster Configuration](https://github.com/Qihoo360/wayne/wiki/Wayne-admin-cluster)
+> Note: After Wayne is started, you need to configure information such as cluster and Namespace for normal use. See details [Cluster Configuration](http://360yun.org/wayne/admin/cluster.html)
 
 
 ## Document
 
-- Refer [Wiki](https://github.com/Qihoo360/wayne/wiki)
+- Refer [Wiki](http://360yun.org/wayne/)
 
 ## Roadmap
 
@@ -116,4 +116,4 @@ With the above command, you can access the local Wayne from http://127.0.0.1:808
 
 ## Contributors
 
-- Refer [contributors](https://github.com/Qihoo360/wayne/wiki/contributors)
+- Refer [contributors](http://360yun.org/wayne/other/contributors.html)
