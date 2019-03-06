@@ -96,12 +96,12 @@ $ docker-compose up -d wayne
 
 通过上述命令，您可以从通过 http://127.0.0.1:8080/admin 访问本地 Wayne, 默认管理员账号 admin:admin。
 
-> 注意：项目启动后还需要配置集群和Namespace等信息才可正常使用。详见 [集群配置](https://github.com/Qihoo360/wayne/wiki/Wayne-admin-cluster)
+> 注意：项目启动后还需要配置集群和Namespace等信息才可正常使用。详见 [集群配置](http://360yun.org/wayne/admin/cluster.html)
 
 
 ## 文档
 
-- 请参照 [Wiki](https://github.com/Qihoo360/wayne/wiki)
+- 请参照 [Wiki](http://360yun.org/wayne/)
 
 ## Roadmap
 
@@ -115,4 +115,4 @@ $ docker-compose up -d wayne
 
 ## 贡献者
 
-- 请参照 [贡献者](https://github.com/Qihoo360/wayne/wiki/contributors)
+- 请参照 [贡献者](http://360yun.org/wayne/other/contributors.html)
